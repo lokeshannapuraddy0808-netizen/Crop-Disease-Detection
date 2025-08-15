@@ -1,0 +1,20 @@
+0 Potato Pest
+1 Potato Healthy
+2 Potato Bacteria
+3 Tomato verticulium wilt
+4 Tomato leaf curl
+5 Tomato Healthy
+6 Maize grasshoper
+7 Maize fall armyworm
+8 Cassava mosaic
+9 Cassava healthy
+10 Cassava green mite
+11 Cashew red rust
+12 Cashew healthy
+13 Maize Healthy
+14 rice narrow_brown_spot
+15 rice leaf_scald
+16 rice leaf_blast
+17 rice healthy
+18 rice brown_spot
+19 rice bacterial_leaf_blight
